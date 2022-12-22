@@ -10,7 +10,7 @@ public class EmployeePayrollService {
         System.out.println("Welcome to Employee Payroll DB");
         String jdbcurl = "jdbc:mysql://localhost:3306/payroll_service";
         String username = "root";
-        String password = "********";
+        String password = "Vivare@*123";
         Connection connection;
         try {
             Class.forName("com.mysql.cj.jdbc.Driver");
